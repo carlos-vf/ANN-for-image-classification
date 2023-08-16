@@ -228,4 +228,4 @@ def tanhDeriv(x):
 
 
 
-main("ann.csv")
+main("minst.csv")
